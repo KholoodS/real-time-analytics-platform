@@ -1,0 +1,5 @@
+C:/Users/kholo/RealTimeAnalyticsPlatform/build/CMakeFiles/main.dir
+C:/Users/kholo/RealTimeAnalyticsPlatform/build/CMakeFiles/tests.dir
+C:/Users/kholo/RealTimeAnalyticsPlatform/build/CMakeFiles/test.dir
+C:/Users/kholo/RealTimeAnalyticsPlatform/build/CMakeFiles/edit_cache.dir
+C:/Users/kholo/RealTimeAnalyticsPlatform/build/CMakeFiles/rebuild_cache.dir
